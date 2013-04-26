@@ -1,0 +1,5 @@
+Sub Main()
+frmTesterama.Show
+frmTesterama2.Show
+End Sub
+

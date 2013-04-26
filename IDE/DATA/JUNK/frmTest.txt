@@ -1,0 +1,12 @@
+Sub Form_Objects()
+Object Button(Button2, Button2, 1152, 512, 1113, 435)
+End Sub
+
+Sub Button2_Click()
+Msgbox("Hello World")
+End Sub
+
+Sub Form_Load()
+
+End Sub
+

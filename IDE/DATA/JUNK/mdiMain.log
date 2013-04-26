@@ -1,0 +1,24 @@
+Line 50: Class Fargo.ctlXPButton of control cmdCreateObject was not a loaded control class.
+Line 56: The property name _ExtentX in cmdCreateObject is invalid.
+Line 57: The property name _ExtentY in cmdCreateObject is invalid.
+Line 58: The property name BTYPE in cmdCreateObject is invalid.
+Line 59: The property name TX in cmdCreateObject is invalid.
+Line 60: The property name ENAB in cmdCreateObject is invalid.
+Line 70: The property name COLTYPE in cmdCreateObject is invalid.
+Line 71: The property name FOCUSR in cmdCreateObject is invalid.
+Line 72: The property name BCOL in cmdCreateObject is invalid.
+Line 73: The property name BCOLO in cmdCreateObject is invalid.
+Line 74: The property name FCOL in cmdCreateObject is invalid.
+Line 75: The property name FCOLO in cmdCreateObject is invalid.
+Line 76: The property name MCOL in cmdCreateObject is invalid.
+Line 77: The property name MPTR in cmdCreateObject is invalid.
+Line 78: The property name MICON in cmdCreateObject is invalid.
+Line 79: The property name PICN in cmdCreateObject is invalid.
+Line 80: The property name UMCOL in cmdCreateObject is invalid.
+Line 81: The property name SOFT in cmdCreateObject is invalid.
+Line 82: The property name PICPOS in cmdCreateObject is invalid.
+Line 83: The property name NGREY in cmdCreateObject is invalid.
+Line 84: The property name FX in cmdCreateObject is invalid.
+Line 85: The property name HAND in cmdCreateObject is invalid.
+Line 86: The property name CHECK in cmdCreateObject is invalid.
+Line 87: The property name VALUE in cmdCreateObject is invalid.

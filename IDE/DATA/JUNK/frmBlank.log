@@ -1,0 +1,23 @@
+Line 22: Class Fargo.ctlXPButton of control cmdSkinnedButton was not a loaded control class.
+Line 31: The property name _ExtentX in cmdSkinnedButton is invalid.
+Line 32: The property name _ExtentY in cmdSkinnedButton is invalid.
+Line 33: The property name BTYPE in cmdSkinnedButton is invalid.
+Line 34: The property name TX in cmdSkinnedButton is invalid.
+Line 35: The property name ENAB in cmdSkinnedButton is invalid.
+Line 45: The property name COLTYPE in cmdSkinnedButton is invalid.
+Line 46: The property name FOCUSR in cmdSkinnedButton is invalid.
+Line 47: The property name BCOL in cmdSkinnedButton is invalid.
+Line 48: The property name BCOLO in cmdSkinnedButton is invalid.
+Line 49: The property name FCOL in cmdSkinnedButton is invalid.
+Line 50: The property name FCOLO in cmdSkinnedButton is invalid.
+Line 51: The property name MCOL in cmdSkinnedButton is invalid.
+Line 52: The property name MPTR in cmdSkinnedButton is invalid.
+Line 53: The property name MICON in cmdSkinnedButton is invalid.
+Line 54: The property name UMCOL in cmdSkinnedButton is invalid.
+Line 55: The property name SOFT in cmdSkinnedButton is invalid.
+Line 56: The property name PICPOS in cmdSkinnedButton is invalid.
+Line 57: The property name NGREY in cmdSkinnedButton is invalid.
+Line 58: The property name FX in cmdSkinnedButton is invalid.
+Line 59: The property name HAND in cmdSkinnedButton is invalid.
+Line 60: The property name CHECK in cmdSkinnedButton is invalid.
+Line 61: The property name VALUE in cmdSkinnedButton is invalid.

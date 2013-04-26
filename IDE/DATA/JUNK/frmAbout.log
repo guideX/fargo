@@ -1,0 +1,24 @@
+Line 49: Class Fargo.ctlXPButton of control cmdClose was not a loaded control class.
+Line 50: The property name Default in cmdClose is invalid.
+Line 56: The property name _ExtentX in cmdClose is invalid.
+Line 57: The property name _ExtentY in cmdClose is invalid.
+Line 58: The property name BTYPE in cmdClose is invalid.
+Line 59: The property name TX in cmdClose is invalid.
+Line 60: The property name ENAB in cmdClose is invalid.
+Line 70: The property name COLTYPE in cmdClose is invalid.
+Line 71: The property name FOCUSR in cmdClose is invalid.
+Line 72: The property name BCOL in cmdClose is invalid.
+Line 73: The property name BCOLO in cmdClose is invalid.
+Line 74: The property name FCOL in cmdClose is invalid.
+Line 75: The property name FCOLO in cmdClose is invalid.
+Line 76: The property name MCOL in cmdClose is invalid.
+Line 77: The property name MPTR in cmdClose is invalid.
+Line 78: The property name MICON in cmdClose is invalid.
+Line 79: The property name UMCOL in cmdClose is invalid.
+Line 80: The property name SOFT in cmdClose is invalid.
+Line 81: The property name PICPOS in cmdClose is invalid.
+Line 82: The property name NGREY in cmdClose is invalid.
+Line 83: The property name FX in cmdClose is invalid.
+Line 84: The property name HAND in cmdClose is invalid.
+Line 85: The property name CHECK in cmdClose is invalid.
+Line 86: The property name VALUE in cmdClose is invalid.

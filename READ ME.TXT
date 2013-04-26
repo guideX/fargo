@@ -1,0 +1,17 @@
+[ Fargo 0.11 ]
+
+Fixed missing cls file
+Fargo is an alpha development environment. Incomplete with an IDE, interpreter, objects, and the ability to compile to exe.
+
+Note: If you fail to setup this program it will not function at all
+
+Step 1: Download http://www.tnexgen.com/downloads/NexgenTab.ocx to <location of Fargo>\IDE\
+Step 2: Click start menu, run 'regsvr32 <location of fargo>\IDE\NexgenTab.ocx'
+Step 3: Compile \INTERPRETER\NVCDI.vbp to \IDE\DATA\BIN\NVCDI.EXE
+Step 4: Open \IDE\DATA\BIN\paths.ini with notepad and follow the steps in that file.
+Step 5: Copy \IDE\DATA\BIN\paths.ini to \INTERPRETER\
+
+And your ready to run the IDE\Visual Code Designer.vbp and compile exe's of your own. Good luck.
+Questions: guidex@tnexgen.com
+
+Some of the buttons and controls used in the ide were downloaded from www.planet-source-code.com and altered. Thanks to developers who are not yet mentioned.

@@ -1,0 +1,12 @@
+mdlMain = 161, 161, 594, 621, C
+clsExecute = 46, 46, 479, 506, 
+mdlGeneral = 115, 115, 548, 575, C
+mdlProfileStrings = 0, 0, 433, 460, C
+mdlSearch = 23, 23, 456, 483, C
+mdlCommonDialog = 92, 92, 525, 552, C
+mdlIcon = 138, 138, 571, 598, C
+mdlPE = 184, 184, 617, 644, C
+mdlProba = 207, 207, 640, 667, C
+mdlCheckKey = 69, 69, 502, 529, C
+frmNothing = 46, 46, 785, 638, C, 23, 23, 569, 483, C
+clsErrHandler = 0, 0, 0, 0, C

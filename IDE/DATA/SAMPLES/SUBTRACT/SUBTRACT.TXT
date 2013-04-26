@@ -1,0 +1,5 @@
+Sub Main()
+   Dim i As Integer
+   i = 100 - 20
+   MsgBox i
+End Sub

@@ -1,0 +1,5 @@
+Sub Main()
+   Dim msg As String
+   msg = "Hello World"
+   MsgBox msg
+End Sub

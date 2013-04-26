@@ -1,0 +1,13 @@
+[ Fargo 0.11 ]
+
+'Hello World Tutorial'
+
+1. Open the IDE
+2. Select Win32_Standard
+3. Type in Test and hit ok
+4. Click the project tab and dblclick mdlTest.txt
+5. Between 'Sub Main()' and 'End Sub' type 'frmTest.show'
+6. Double click on the empty form, or double click on frmTest in the project tab
+7. Between 'Sub Form_Load()' and 'End Sub' type 'Msgbox "Hello World"'
+8. Click Debug/Compile, it will ask you to save
+9. Go run it. You should see a message box saying 'Hello World', if not, you did it wrong

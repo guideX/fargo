@@ -1,0 +1,575 @@
+VERSION 5.00
+Begin VB.PropertyPage pgeIconForm 
+   Caption         =   "Change Icon"
+   ClientHeight    =   4650
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   4590
+   LockControls    =   -1  'True
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   4650
+   ScaleWidth      =   4590
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   72
+      Left            =   3990
+      Top             =   4140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   71
+      Left            =   3990
+      Top             =   3630
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   70
+      Left            =   3990
+      Top             =   3120
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   69
+      Left            =   3990
+      Top             =   2610
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   68
+      Left            =   3990
+      Top             =   2100
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   67
+      Left            =   3990
+      Top             =   1620
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   66
+      Left            =   3990
+      Top             =   1140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   65
+      Left            =   3990
+      Top             =   660
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   64
+      Left            =   3990
+      Top             =   180
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   63
+      Left            =   3450
+      Top             =   4140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   62
+      Left            =   3450
+      Top             =   3630
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   61
+      Left            =   3450
+      Top             =   3120
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   60
+      Left            =   3450
+      Top             =   2610
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   59
+      Left            =   3450
+      Top             =   2100
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   58
+      Left            =   3450
+      Top             =   1620
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   57
+      Left            =   3450
+      Top             =   1140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   56
+      Left            =   3450
+      Top             =   660
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   55
+      Left            =   3450
+      Top             =   180
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   54
+      Left            =   2910
+      Top             =   4140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   53
+      Left            =   2910
+      Top             =   3630
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   52
+      Left            =   2910
+      Top             =   3120
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   51
+      Left            =   2910
+      Top             =   2610
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   50
+      Left            =   2910
+      Top             =   2100
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   49
+      Left            =   2910
+      Top             =   1620
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   48
+      Left            =   2910
+      Top             =   1140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   47
+      Left            =   2910
+      Top             =   660
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   46
+      Left            =   2910
+      Top             =   180
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   45
+      Left            =   2370
+      Top             =   4140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   44
+      Left            =   2370
+      Top             =   3630
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   43
+      Left            =   2370
+      Top             =   3120
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   42
+      Left            =   2370
+      Top             =   2610
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   41
+      Left            =   2370
+      Top             =   2100
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   40
+      Left            =   2370
+      Top             =   1620
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   39
+      Left            =   2370
+      Top             =   1140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   38
+      Left            =   2370
+      Top             =   660
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   37
+      Left            =   2370
+      Top             =   180
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   36
+      Left            =   1830
+      Top             =   4140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   35
+      Left            =   1830
+      Top             =   3630
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   34
+      Left            =   1830
+      Top             =   3120
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   33
+      Left            =   1830
+      Top             =   2610
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   32
+      Left            =   1830
+      Top             =   2100
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   31
+      Left            =   1830
+      Top             =   1620
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   30
+      Left            =   1830
+      Top             =   1140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   29
+      Left            =   1830
+      Top             =   660
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   28
+      Left            =   1830
+      Top             =   180
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   27
+      Left            =   1290
+      Top             =   4140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   26
+      Left            =   1290
+      Top             =   3630
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   25
+      Left            =   1290
+      Top             =   3120
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   24
+      Left            =   1290
+      Top             =   2610
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   23
+      Left            =   1290
+      Top             =   2100
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   22
+      Left            =   1290
+      Top             =   1620
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   21
+      Left            =   1290
+      Top             =   1140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   20
+      Left            =   1290
+      Top             =   660
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   19
+      Left            =   1290
+      Top             =   180
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   18
+      Left            =   750
+      Top             =   4140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   17
+      Left            =   750
+      Top             =   3630
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   16
+      Left            =   750
+      Top             =   3120
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   15
+      Left            =   750
+      Top             =   2610
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   14
+      Left            =   750
+      Top             =   2100
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   13
+      Left            =   750
+      Top             =   1620
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   12
+      Left            =   750
+      Top             =   1140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   11
+      Left            =   750
+      Top             =   660
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   10
+      Left            =   750
+      Top             =   180
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   9
+      Left            =   180
+      Top             =   4140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   8
+      Left            =   180
+      Top             =   3630
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   7
+      Left            =   180
+      Top             =   3120
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   6
+      Left            =   180
+      Top             =   2610
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   5
+      Left            =   180
+      Top             =   2100
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   4
+      Left            =   180
+      Top             =   1620
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   3
+      Left            =   180
+      Top             =   1140
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   2
+      Left            =   180
+      Top             =   660
+      Width           =   420
+   End
+   Begin VB.Image IMG 
+      Height          =   480
+      Index           =   0
+      Left            =   1680
+      Top             =   -720
+      Width           =   480
+   End
+   Begin VB.Image IMG 
+      Height          =   390
+      Index           =   1
+      Left            =   180
+      Top             =   180
+      Width           =   420
+   End
+End
+Attribute VB_Name = "pgeIconForm"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = False
+Option Explicit
+Dim lButton As Object
+Dim lIndex As Integer
+
+Private Sub IMG_Click(Index As Integer)
+lIndex = Index
+PropertyPage.Changed = True
+Exit Sub
+ErrHandler:
+    ProcessRuntimeError Err.Description, Err.Number, "Private Sub IMG_Click(Index As Integer)"
+    Err.Clear
+End Sub
+
+Private Sub IMG_DblClick(Index As Integer)
+If lSettings.sHandleErrors = True Then On Local Error GoTo ErrHandler
+Set lButton.Icon = IMG(Index).Picture
+Exit Sub
+ErrHandler:
+    ProcessRuntimeError Err.Description, Err.Number, "Private Sub IMG_DblClick(Index As Integer)"
+    Err.Clear
+End Sub
+
+Private Sub PropertyPage_ApplyChanges()
+If lSettings.sHandleErrors = True Then On Local Error GoTo ErrHandler
+Set lButton.Icon = IMG(lIndex).Picture
+Exit Sub
+ErrHandler:
+    ProcessRuntimeError Err.Description, Err.Number, "Private Sub IMG_DblClick(Index As Integer)"
+    Err.Clear
+End Sub
+
+Private Sub PropertyPage_SelectionChanged()
+If lSettings.sHandleErrors = True Then On Local Error GoTo ErrHandler
+Dim I As Integer
+For I = 1 To 72
+    If I <> 54 Then
+        IMG(I).Picture = frmImages.IMG.ListImages(I + 72).Picture
+    Else
+    End If
+    IMG(I).ToolTipText = "Index No: " & I
+Next
+Set lButton = SelectedControls(0)
+Exit Sub
+ErrHandler:
+    ProcessRuntimeError Err.Description, Err.Number, "Private Sub PropertyPage_SelectionChanged()"
+    Err.Clear
+End Sub
